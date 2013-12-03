@@ -1,0 +1,5 @@
+{
+	"Url" : "/api/vsg/event/v1/",
+	"Port": ":8082",
+	"CsUrl": "http://localhost:8080/ingg/api/v1"
+}
