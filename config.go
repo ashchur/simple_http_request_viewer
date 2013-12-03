@@ -6,9 +6,10 @@ import (
 )
 
 type ConfigInfo struct {
-	Url   string
-	Port  string
-	CsUrl string
+	Url     string
+	Port    string
+	CsUrl   string
+	LogFile string
 }
 
 var config *ConfigInfo
